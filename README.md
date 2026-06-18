@@ -2,6 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend developer</h2>
 
+### 📬 **How to contact me**
+<a href="https://t.me/gsamars">
+  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30"/>
+</a>
+
+### 👨‍💻 **Tools**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaliyaZ&layout=compact)](https://github.com/GaliyaZ/github-readme-stats)
 <!--
 **GaliyaZ/GaliyaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
