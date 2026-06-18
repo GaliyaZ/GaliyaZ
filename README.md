@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Galiya 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Frontend developer</h2>
 
 <!--
 **GaliyaZ/GaliyaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
